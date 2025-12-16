@@ -1,0 +1,11 @@
+{
+  "title": "API Integration",
+  "description": "A Python script that interacts with an external API to fetch and display data (e.g., weather, cryptocurrency prices). The app fetches data, parse it and display friendly results to the user.",
+  "objectives": [
+    "Use the requests library to make GET requests to an API.",
+    "Parse and display the fetched data in a user-friendly format.",
+    "Handle errors, such as failed requests or invalid responses."
+  ],
+  "example": "Examples: Weather data, cryptocurrency prices, or public datasets.",
+  "notes": "This demo displays the description and objectives for Task 3. Replace this JSON later with a backend endpoint if you want the server to provide task text."
+}
